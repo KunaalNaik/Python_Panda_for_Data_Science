@@ -1,0 +1,34 @@
+﻿Customer Segment,Product Category,Product Sub-Category,Product Container,Ips
+Consumer,Furniture,Bookcases,Jumbo Box,aaa__bbb1
+Consumer,Furniture,Chairs & Chairmats,Jumbo Drum,aaa__bbb2
+Consumer,Furniture,Chairs & Chairmats,Large Box,aaa__bbb3
+Consumer,Furniture,Chairs & Chairmats,Medium Box,aaa__bbb4
+Consumer,Furniture,Office Furnishings,Jumbo Drum,aaa__bbb5
+Consumer,Furniture,Office Furnishings,Large Box,aaa__bbb6
+Consumer,Furniture,Office Furnishings,Medium Box,aaa__bbb7
+Consumer,Furniture,Office Furnishings,Small Box,aaa__bbb8
+Consumer,Furniture,Office Furnishings,Small Pack,aaa__bbb9
+Consumer,Furniture,Office Furnishings,Wrap Bag,aaa__bbb10
+Consumer,Furniture,Tables,Jumbo Box,aaa__bbb11__ccc1
+Consumer,Furniture,Tables,Jumbo Drum,aaa__bbb11__ccc2
+Consumer,Furniture,Tables,Large Box,aaa__bbb11__ccc3
+Consumer,Office Supplies,Appliances,Jumbo Drum,aaa__bbb11__ccc4
+Consumer,Office Supplies,Appliances,Large Box,aaa__bbb11__ccc5
+Consumer,Office Supplies,Appliances,Medium Box,aaa__bbb11__ccc6
+Consumer,Office Supplies,Appliances,Small Box,aaa__bbb11__ccc7
+Consumer,Office Supplies,Binders and Binder Accessories,Small Box,aaa__bbb11__ccc8
+Consumer,Office Supplies,Envelopes,Small Box,aaa__bbb11__ccc9
+Consumer,Office Supplies,Labels,Small Box,aaa__bbb11__ccc10__ddd1
+Consumer,Office Supplies,Paper,Small Box,aaa__bbb11__ccc10__ddd2
+Consumer,Office Supplies,Paper,Wrap Bag,aaa__bbb11__ccc10__ddd3
+Consumer,Office Supplies,Pens & Art Supplies,Small Box,aaa__bbb11__ccc10__ddd4
+Consumer,Office Supplies,Pens & Art Supplies,Small Pack,aaa__bbb11__ccc10__ddd5
+Consumer,Office Supplies,Pens & Art Supplies,Wrap Bag,aaa__bbb11__ccc10__ddd6
+Consumer,Office Supplies,Rubber Bands,Wrap Bag,aaa__bbb11__ccc10__ddd7
+Consumer,Office Supplies,"Scissors, Rulers and Trimmers",Medium Box,aaa__bbb11__ccc10__ddd8
+Consumer,Office Supplies,"Scissors, Rulers and Trimmers",Small Pack,aaa__bbb11__ccc10__ddd9
+Consumer,Office Supplies,"Scissors, Rulers and Trimmers",Wrap Bag,aaa__bbb11__ccc10__ddd10
+Consumer,Office Supplies,Storage & Organization,Jumbo Drum,aaa1
+Consumer,Office Supplies,Storage & Organization,Large Box,aaa2
+Consumer,Office Supplies,Storage & Organization,Medium Box,aaa3
+Consumer,Office Supplies,Storage & Organization,Small Box,aaa4

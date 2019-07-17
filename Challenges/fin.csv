@@ -1,0 +1,92 @@
+Customer Segment,Product Category,Product Sub-Category,Product Container,,Ips
+Consumer,Furniture,Bookcases,Jumbo Box,Part_0,aaa
+Consumer,Furniture,Bookcases,Jumbo Box,Part_1,bbb1
+Consumer,Furniture,Chairs & Chairmats,Jumbo Drum,Part_0,aaa
+Consumer,Furniture,Chairs & Chairmats,Jumbo Drum,Part_1,bbb2
+Consumer,Furniture,Chairs & Chairmats,Large Box,Part_0,aaa
+Consumer,Furniture,Chairs & Chairmats,Large Box,Part_1,bbb3
+Consumer,Furniture,Chairs & Chairmats,Medium Box,Part_0,aaa
+Consumer,Furniture,Chairs & Chairmats,Medium Box,Part_1,bbb4
+Consumer,Furniture,Office Furnishings,Jumbo Drum,Part_0,aaa
+Consumer,Furniture,Office Furnishings,Jumbo Drum,Part_1,bbb5
+Consumer,Furniture,Office Furnishings,Large Box,Part_0,aaa
+Consumer,Furniture,Office Furnishings,Large Box,Part_1,bbb6
+Consumer,Furniture,Office Furnishings,Medium Box,Part_0,aaa
+Consumer,Furniture,Office Furnishings,Medium Box,Part_1,bbb7
+Consumer,Furniture,Office Furnishings,Small Box,Part_0,aaa
+Consumer,Furniture,Office Furnishings,Small Box,Part_1,bbb8
+Consumer,Furniture,Office Furnishings,Small Pack,Part_0,aaa
+Consumer,Furniture,Office Furnishings,Small Pack,Part_1,bbb9
+Consumer,Furniture,Office Furnishings,Wrap Bag,Part_0,aaa
+Consumer,Furniture,Office Furnishings,Wrap Bag,Part_1,bbb10
+Consumer,Furniture,Tables,Jumbo Box,Part_0,aaa
+Consumer,Furniture,Tables,Jumbo Box,Part_1,bbb11
+Consumer,Furniture,Tables,Jumbo Box,Part_2,ccc1
+Consumer,Furniture,Tables,Jumbo Drum,Part_0,aaa
+Consumer,Furniture,Tables,Jumbo Drum,Part_1,bbb11
+Consumer,Furniture,Tables,Jumbo Drum,Part_2,ccc2
+Consumer,Furniture,Tables,Large Box,Part_0,aaa
+Consumer,Furniture,Tables,Large Box,Part_1,bbb11
+Consumer,Furniture,Tables,Large Box,Part_2,ccc3
+Consumer,Office Supplies,Appliances,Jumbo Drum,Part_0,aaa
+Consumer,Office Supplies,Appliances,Jumbo Drum,Part_1,bbb11
+Consumer,Office Supplies,Appliances,Jumbo Drum,Part_2,ccc4
+Consumer,Office Supplies,Appliances,Large Box,Part_0,aaa
+Consumer,Office Supplies,Appliances,Large Box,Part_1,bbb11
+Consumer,Office Supplies,Appliances,Large Box,Part_2,ccc5
+Consumer,Office Supplies,Appliances,Medium Box,Part_0,aaa
+Consumer,Office Supplies,Appliances,Medium Box,Part_1,bbb11
+Consumer,Office Supplies,Appliances,Medium Box,Part_2,ccc6
+Consumer,Office Supplies,Appliances,Small Box,Part_0,aaa
+Consumer,Office Supplies,Appliances,Small Box,Part_1,bbb11
+Consumer,Office Supplies,Appliances,Small Box,Part_2,ccc7
+Consumer,Office Supplies,Binders and Binder Accessories,Small Box,Part_0,aaa
+Consumer,Office Supplies,Binders and Binder Accessories,Small Box,Part_1,bbb11
+Consumer,Office Supplies,Binders and Binder Accessories,Small Box,Part_2,ccc8
+Consumer,Office Supplies,Envelopes,Small Box,Part_0,aaa
+Consumer,Office Supplies,Envelopes,Small Box,Part_1,bbb11
+Consumer,Office Supplies,Envelopes,Small Box,Part_2,ccc9
+Consumer,Office Supplies,Labels,Small Box,Part_0,aaa
+Consumer,Office Supplies,Labels,Small Box,Part_1,bbb11
+Consumer,Office Supplies,Labels,Small Box,Part_2,ccc10
+Consumer,Office Supplies,Labels,Small Box,Part_3,ddd1
+Consumer,Office Supplies,Paper,Small Box,Part_0,aaa
+Consumer,Office Supplies,Paper,Small Box,Part_1,bbb11
+Consumer,Office Supplies,Paper,Small Box,Part_2,ccc10
+Consumer,Office Supplies,Paper,Small Box,Part_3,ddd2
+Consumer,Office Supplies,Paper,Wrap Bag,Part_0,aaa
+Consumer,Office Supplies,Paper,Wrap Bag,Part_1,bbb11
+Consumer,Office Supplies,Paper,Wrap Bag,Part_2,ccc10
+Consumer,Office Supplies,Paper,Wrap Bag,Part_3,ddd3
+Consumer,Office Supplies,Pens & Art Supplies,Small Box,Part_0,aaa
+Consumer,Office Supplies,Pens & Art Supplies,Small Box,Part_1,bbb11
+Consumer,Office Supplies,Pens & Art Supplies,Small Box,Part_2,ccc10
+Consumer,Office Supplies,Pens & Art Supplies,Small Box,Part_3,ddd4
+Consumer,Office Supplies,Pens & Art Supplies,Small Pack,Part_0,aaa
+Consumer,Office Supplies,Pens & Art Supplies,Small Pack,Part_1,bbb11
+Consumer,Office Supplies,Pens & Art Supplies,Small Pack,Part_2,ccc10
+Consumer,Office Supplies,Pens & Art Supplies,Small Pack,Part_3,ddd5
+Consumer,Office Supplies,Pens & Art Supplies,Wrap Bag,Part_0,aaa
+Consumer,Office Supplies,Pens & Art Supplies,Wrap Bag,Part_1,bbb11
+Consumer,Office Supplies,Pens & Art Supplies,Wrap Bag,Part_2,ccc10
+Consumer,Office Supplies,Pens & Art Supplies,Wrap Bag,Part_3,ddd6
+Consumer,Office Supplies,Rubber Bands,Wrap Bag,Part_0,aaa
+Consumer,Office Supplies,Rubber Bands,Wrap Bag,Part_1,bbb11
+Consumer,Office Supplies,Rubber Bands,Wrap Bag,Part_2,ccc10
+Consumer,Office Supplies,Rubber Bands,Wrap Bag,Part_3,ddd7
+Consumer,Office Supplies,"Scissors, Rulers and Trimmers",Medium Box,Part_0,aaa
+Consumer,Office Supplies,"Scissors, Rulers and Trimmers",Medium Box,Part_1,bbb11
+Consumer,Office Supplies,"Scissors, Rulers and Trimmers",Medium Box,Part_2,ccc10
+Consumer,Office Supplies,"Scissors, Rulers and Trimmers",Medium Box,Part_3,ddd8
+Consumer,Office Supplies,"Scissors, Rulers and Trimmers",Small Pack,Part_0,aaa
+Consumer,Office Supplies,"Scissors, Rulers and Trimmers",Small Pack,Part_1,bbb11
+Consumer,Office Supplies,"Scissors, Rulers and Trimmers",Small Pack,Part_2,ccc10
+Consumer,Office Supplies,"Scissors, Rulers and Trimmers",Small Pack,Part_3,ddd9
+Consumer,Office Supplies,"Scissors, Rulers and Trimmers",Wrap Bag,Part_0,aaa
+Consumer,Office Supplies,"Scissors, Rulers and Trimmers",Wrap Bag,Part_1,bbb11
+Consumer,Office Supplies,"Scissors, Rulers and Trimmers",Wrap Bag,Part_2,ccc10
+Consumer,Office Supplies,"Scissors, Rulers and Trimmers",Wrap Bag,Part_3,ddd10
+Consumer,Office Supplies,Storage & Organization,Jumbo Drum,Part_0,aaa1
+Consumer,Office Supplies,Storage & Organization,Large Box,Part_0,aaa2
+Consumer,Office Supplies,Storage & Organization,Medium Box,Part_0,aaa3
+Consumer,Office Supplies,Storage & Organization,Small Box,Part_0,aaa4
